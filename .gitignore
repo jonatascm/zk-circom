@@ -1,0 +1,9 @@
+*_cpp/
+*_js/
+*.r1cs
+*.sym
+*.wtns
+*.ptau
+*.zkey
+*.pk
+*.vk
